@@ -1,0 +1,28 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Properties.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.pdb
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.exe.config
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.exe
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.pdb
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csprojAssemblyReference.cache
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Form1.resources
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Properties.Resources.resources
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.GenerateResource.cache
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.CoreCompileInputs.cache
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.exe
+C:\Harold\loaddatadtgsourcodester\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.pdb
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.exe.config
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.exe
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\bin\Debug\LoaddataDtgSourcodester.pdb
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.AssemblyReference.cache
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Form1.resources
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.Properties.Resources.resources
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.GenerateResource.cache
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.csproj.CoreCompileInputs.cache
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.exe
+C:\Users\axelg\LoaddataDtgSourcodester\LoaddataDtgSourcodester\obj\Debug\LoaddataDtgSourcodester.pdb
